@@ -1,2 +1,2 @@
-a game which is totally creted with basic javascript.
+a game which is totally created with basic javascript.
 # guessing-game
